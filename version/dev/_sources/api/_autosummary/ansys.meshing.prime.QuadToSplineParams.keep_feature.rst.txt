@@ -1,0 +1,6 @@
+﻿keep\_feature
+=============
+
+.. currentmodule:: ansys.meshing.prime
+
+.. autoproperty:: QuadToSplineParams.keep_feature

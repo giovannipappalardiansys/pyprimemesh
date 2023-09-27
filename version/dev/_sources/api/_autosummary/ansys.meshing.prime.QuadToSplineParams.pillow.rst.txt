@@ -1,0 +1,6 @@
+﻿pillow
+======
+
+.. currentmodule:: ansys.meshing.prime
+
+.. autoproperty:: QuadToSplineParams.pillow

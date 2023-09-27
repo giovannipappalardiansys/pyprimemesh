@@ -1,0 +1,41 @@
+.. vale off
+
+QuadToSplineParams
+==================
+
+.. currentmodule:: ansys.meshing.prime
+
+.. autoclass:: QuadToSplineParams
+   
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+      :toctree:
+   
+      
+      QuadToSplineParams.print_default
+      QuadToSplineParams.set_default
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+      :toctree:
+   
+      QuadToSplineParams.continuity
+      QuadToSplineParams.corner_angle
+      QuadToSplineParams.feature_angle
+      QuadToSplineParams.feature_mode
+      QuadToSplineParams.keep_feature
+      QuadToSplineParams.pillow
+      QuadToSplineParams.shell_thickness
+      QuadToSplineParams.solid_shell
+   
+   
+
+.. vale on

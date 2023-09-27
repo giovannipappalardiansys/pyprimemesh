@@ -1,0 +1,6 @@
+﻿no\_side\_imprint
+=================
+
+.. currentmodule:: ansys.meshing.prime
+
+.. autoproperty:: ThinVolumeMeshParams.no_side_imprint

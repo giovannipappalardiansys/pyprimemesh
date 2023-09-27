@@ -1,0 +1,6 @@
+﻿cff\_format
+===========
+
+.. currentmodule:: ansys.meshing.prime
+
+.. autoproperty:: ExportFluentCaseParams.cff_format

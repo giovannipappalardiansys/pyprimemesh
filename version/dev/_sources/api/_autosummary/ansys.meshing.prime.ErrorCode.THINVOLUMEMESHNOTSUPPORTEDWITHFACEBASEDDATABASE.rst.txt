@@ -1,0 +1,6 @@
+﻿THINVOLUMEMESHNOTSUPPORTEDWITHFACEBASEDDATABASE
+===============================================
+
+.. currentmodule:: ansys.meshing.prime
+
+.. autoattribute:: ErrorCode.THINVOLUMEMESHNOTSUPPORTEDWITHFACEBASEDDATABASE

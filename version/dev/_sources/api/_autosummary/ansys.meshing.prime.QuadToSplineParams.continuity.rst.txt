@@ -1,0 +1,6 @@
+﻿continuity
+==========
+
+.. currentmodule:: ansys.meshing.prime
+
+.. autoproperty:: QuadToSplineParams.continuity

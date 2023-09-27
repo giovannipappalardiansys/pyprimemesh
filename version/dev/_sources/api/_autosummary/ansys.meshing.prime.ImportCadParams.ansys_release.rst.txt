@@ -1,0 +1,6 @@
+﻿ansys\_release
+==============
+
+.. currentmodule:: ansys.meshing.prime
+
+.. autoproperty:: ImportCadParams.ansys_release
